@@ -1,4 +1,4 @@
 # Demo
 This is a Demo Repository
 <br>
-Author- Ritvik Sahu
+Author- Ritvik Sahu (Software Developer)
